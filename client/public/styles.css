@@ -1,0 +1,261 @@
+.about h1 {
+    text-align: center;
+}
+.home {
+    min-height: 100vh;
+}
+.main {
+    padding-bottom: 2.5rem;
+}
+
+.mainhead img {
+    border-top: 2px solid #a6a6a6;
+    border-bottom: 2px solid #a6a6a6;
+    display: block;
+    width: 100%;
+}
+
+#footermem {
+    text-align: center;
+    color: #2e2e2e;
+    font-size: 1em;
+    height: 3em;
+    position: relative;
+    align-self: center; 
+ }
+
+ #footerhome {
+    text-align: center;
+    color: #2e2e2e;
+    font-size: 1em;
+    height: 3em;
+    position: relative;
+    top:40em;
+    align-self: center; 
+ }
+ #footerevent{
+    text-align: center;
+    color: #2e2e2e;
+    font-size: 1em;
+    height: 3em;
+    position: relative;
+    top:57em;
+    align-self: center;
+ }
+ #footerlog {
+    text-align: center;
+    color: #2e2e2e;
+    font-size: 1em;
+    height: 3em;
+    position: relative;
+    top:15em;
+    align-self: center; 
+ }
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+}
+.buton {
+    text-align: center;
+} 
+.text {
+    margin-left: 10em;
+    margin-right: 10em;
+    font-size: 25px;
+}
+.mainhead h1 {
+    position: absolute;
+    display: block;
+    color: white;
+    top: 13em;
+    left: 4em;
+}
+.mainhead h2 {
+    position: absolute;
+    display: block;
+    color: #2e2e2e;
+    top: 22em;
+    left: 18em;
+}
+.news1 > h4 {
+    position: absolute;
+    display: block;
+    color: black;
+    top: 32em;
+    left: 15em;
+    text-align: center;
+}
+
+.news1 > p {
+    position: absolute;
+    display: block;
+    color: #404040;
+    top: 53.5em;
+    left: 24em;
+    text-align: left;
+    margin-right: 4em;
+}
+
+  
+.news2 > h4 {
+    position: absolute;
+    display: block;
+    color: black;
+    top: 44em;
+    left: 15em;
+    text-align: center;
+}
+.news2 > p {
+    position: absolute;
+    display: block;
+    color: #404040;
+    top: 73em;
+    left: 24em;
+    text-align: left;
+    margin-right: 4em;
+}
+.news1 > a > img {
+    position: absolute;
+    display: block;
+    width: 21%;
+    height: 243px;
+    top: 47em;
+    left: 3em;
+}
+  
+.news2 > a > img {
+    position: absolute;
+    display: block;
+    width: 21%;
+    height: 243px;
+    top: 65em;
+    left: 3em;
+}
+.event > h4{
+    position: absolute;
+    display: block;
+    color: black;
+    top: 35em;
+    left: 10em;
+    text-align: center;
+}
+.event > p{
+    position: absolute;
+    display: block;
+    color: #404040;
+    top: 58em;
+    left: 16em;
+    text-align: left;
+    margin-right: 4em;
+}
+.event > a > img{
+    position: absolute;
+    display: block;
+    width: 15%;
+    height: 130px;
+    top: 50em;
+    left: 2em;
+}
+.events > h4 {
+    position: absolute;
+    display: block;
+    color: black;
+    top: 40em;
+    left: 10em;
+    text-align: center;
+}
+.events > p{
+    position: absolute;
+    display: block;
+    color: #404040;
+    top: 66em;
+    left: 16em;
+    text-align: left;
+    margin-right: 4em;
+}
+.events > a > img{
+    position: absolute;
+    display: block;
+    width: 13%;
+    height: 130px;
+    top: 60em;
+    left: 2.5em;
+}
+.events1 > h4{
+    position: absolute;
+    display: block;
+    color: black;
+    top: 48em;
+    left: 10em;
+    text-align: center;
+}
+.events1 > p{
+    position: absolute;
+    display: block;
+    color: #404040;
+    top: 79em;
+    left: 16em;
+    text-align: left;
+    margin-right: 4em;
+}
+.events1 > a > img{
+    position: absolute;
+    display: block;
+    width: 12.5%;
+    height: 150px;
+    top: 70em;
+    left: 2em;
+}
+.events2 > h4{
+    position: absolute;
+    display: block;
+    color: black;
+    top: 55em;
+    left: 10em;
+    text-align: center;
+}
+.events2 > p{
+    position: absolute;
+    display: block;
+    color: #404040;
+    top: 90em;
+    left: 16em;
+    text-align: left;
+    margin-right: 4em;
+}
+.events2 > a > img{
+    position: absolute;
+    display: block;
+    width: 12.5%;
+    height: 150px;
+    top: 81em;
+    left: 2em;
+}
+.events3 > h4{
+    position: absolute;
+    display: block;
+    color: black;
+    top: 61em;
+    left: 10em;
+    text-align: center;
+}
+.events3 > p{
+    position: absolute;
+    display: block;
+    color: #404040;
+    top: 99em;
+    left: 16em;
+    text-align: left;
+    margin-right: 4em;
+}
+.events3 > a > img{
+    position: absolute;
+    display: block;
+    width: 13%;
+    height: 150px;
+    top: 91em;
+    left: 2em;
+}
